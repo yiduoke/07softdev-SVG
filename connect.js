@@ -27,7 +27,7 @@ var new_circle = function(click){
         x1 = x;
     }
     if (!y1){
-        y1 = x;
+        y1 = y;
     }
 
     x2 = x;
